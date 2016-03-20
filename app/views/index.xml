@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<Label id="label" top="80" left="200">Hello, World</Label>
+		<Button id="createPDF" onClick="testKeyboard" top="100" left="200">Create PDF</Button>
+		<TextArea id="testText" top ="300" left = "200" width="100" height="40" backgroundColor="#00ff00" ></TextArea>
+	</Window>
+</Alloy>

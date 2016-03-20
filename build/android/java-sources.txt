@@ -1,0 +1,8 @@
+"/Users/louis/Desktop/AlloyDemo/build/android/gen/android/support/v7/appcompat/R.java"
+"/Users/louis/Desktop/AlloyDemo/build/android/gen/com/example/alloydemo/AlloydemoActivity.java"
+"/Users/louis/Desktop/AlloyDemo/build/android/gen/com/example/alloydemo/AlloydemoAppInfo.java"
+"/Users/louis/Desktop/AlloyDemo/build/android/gen/com/example/alloydemo/AlloydemoApplication.java"
+"/Users/louis/Desktop/AlloyDemo/build/android/gen/com/example/alloydemo/ApplicationStylesheet.java"
+"/Users/louis/Desktop/AlloyDemo/build/android/gen/com/example/alloydemo/AssetCryptImpl.java"
+"/Users/louis/Desktop/AlloyDemo/build/android/gen/com/example/alloydemo/R.java"
+"/Users/louis/Desktop/AlloyDemo/build/android/gen/ti/modules/titanium/ui/R.java"
